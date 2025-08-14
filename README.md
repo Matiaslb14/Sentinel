@@ -1,28 +1,31 @@
-cat > README.md << 'EOF'
-# 🛡️ Sentinel - Sistema de Monitoreo y Alertas para Linux
+# 🛡️ Sentinel — Monitoring & Alert System for Linux
 
-**Sentinel** es una herramienta ligera en Bash que permite monitorear el estado de un sistema Linux, detectar anomalías y generar alertas automáticas para prevenir problemas críticos.
+Sentinel is a lightweight Bash tool designed to monitor the status of a Linux system, detect anomalies, and generate automatic alerts to prevent critical issues.
 
-## 🚀 ¿Qué monitorea?
+🚀 What it Monitors
 
-- Uso de CPU, RAM y Disco
-- Intentos de acceso fallidos al sistema (seguridad)
-- Envío de alertas por consola, log y correo electrónico
+CPU, RAM, and Disk Usage
 
-## 📁 Estructura
+Failed login attempts (security monitoring)
 
-monitor.sh # Script principal
-config.conf # Configuración de umbrales y alertas
-logs/sentinel.log # Log de eventos detectados
+Alerts sent via console, log file, and email
 
-## ⚙️ Cómo usar
+📁 Project Structure
 
-1. Clonar el repositorio:
+monitor.sh      # Main script
 
-```bash
+config.conf     # Thresholds and alert configuration
+
+logs/sentinel.log # Log file with detected events
+
+⚙️ How to Use
+
+Clone the repository:
+
 git clone https://github.com/Matiaslb14/05-Sentinel.git
+
 cd 05-Sentinel
 
+Run the monitor:
+
 bash monitor.sh
-
-
