@@ -77,3 +77,4 @@ This project is part of my Linux Automation & Security Toolkit series, focused o
 ES:
 Este proyecto forma parte de mi serie Linux Automation & Security Toolkit, enfocada en scripting práctico en Bash para monitoreo y automatización de seguridad en sistemas Linux.
 
+👨‍💻 Developed by / Desarrollado por **Matías Lagos Barra** — Cloud & DevSecOps Engineer
