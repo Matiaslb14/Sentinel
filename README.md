@@ -59,15 +59,15 @@ logs/sentinel.log # Log file with detected events / Archivo de registro con even
 
 🖼️ Screenshot / Captura de Ejecución
 
-EN:
-Below is an example of Sentinel running on a Linux system, generating alerts based on configured thresholds.
+## 🖼️ Screenshot / Captura de Ejecución  
 
-ES:
-A continuación se muestra un ejemplo de Sentinel ejecutándose en un sistema Linux, generando alertas según los umbrales configurados.
+**EN:** Below is an example of Sentinel running on a Linux system, generating alerts based on configured thresholds.  
+**ES:** A continuación se muestra un ejemplo de Sentinel ejecutándose en un sistema Linux, generando alertas según los umbrales configurados.  
 
 <div align="center">
   <img src="./images/sentinel_run.png" alt="Sentinel Run" width="70%">
 </div>
+
 
 📘 Notes / Notas
 
