@@ -65,6 +65,8 @@ Below is an example of Sentinel running on a Linux system, generating alerts bas
 ES:
 A continuación se muestra un ejemplo de Sentinel ejecutándose en un sistema Linux, generando alertas según los umbrales configurados.
 
+![Sentinel Run](./images/sentinel_run.png)
+
 📘 Notes / Notas
 
 EN:
