@@ -35,7 +35,7 @@ git clone https://github.com/Matiaslb14/05-Sentinel.git
 cd 05-Sentinel
 bash monitor.sh
 
-ES:
+**ES:**
 Clona el repositorio y ejecuta el script de monitoreo:
 
 git clone https://github.com/Matiaslb14/05-Sentinel.git
@@ -62,6 +62,7 @@ logs/sentinel.log # Log file with detected events / Archivo de registro con even
 ## 🖼️ Screenshot / Captura de Ejecución  
 
 **EN:** Below is an example of Sentinel running on a Linux system, generating alerts based on configured thresholds.  
+
 **ES:** A continuación se muestra un ejemplo de Sentinel ejecutándose en un sistema Linux, generando alertas según los umbrales configurados.  
 
 <div align="center">
@@ -71,10 +72,10 @@ logs/sentinel.log # Log file with detected events / Archivo de registro con even
 
 📘 Notes / Notas
 
-EN:
+**EN:**
 This project is part of my Linux Automation & Security Toolkit series, focused on practical Bash scripting for system monitoring and security automation.
 
-ES:
+**ES:**
 Este proyecto forma parte de mi serie Linux Automation & Security Toolkit, enfocada en scripting práctico en Bash para monitoreo y automatización de seguridad en sistemas Linux.
 
 👨‍💻 Developed by / Desarrollado por **Matías Lagos Barra** — Cloud & DevSecOps Engineer
